@@ -1,0 +1,10 @@
+D:\PRojectS\C#\Projects\BombNET\BombNET\bin\Debug\BombNET.exe.config
+D:\PRojectS\C#\Projects\BombNET\BombNET\bin\Debug\BombNET.exe
+D:\PRojectS\C#\Projects\BombNET\BombNET\bin\Debug\BombNET.pdb
+D:\PRojectS\C#\Projects\BombNET\BombNET\obj\Debug\BombNET.csproj.AssemblyReference.cache
+D:\PRojectS\C#\Projects\BombNET\BombNET\obj\Debug\BombNET.Form1.resources
+D:\PRojectS\C#\Projects\BombNET\BombNET\obj\Debug\BombNET.Properties.Resources.resources
+D:\PRojectS\C#\Projects\BombNET\BombNET\obj\Debug\BombNET.csproj.GenerateResource.cache
+D:\PRojectS\C#\Projects\BombNET\BombNET\obj\Debug\BombNET.csproj.CoreCompileInputs.cache
+D:\PRojectS\C#\Projects\BombNET\BombNET\obj\Debug\BombNET.exe
+D:\PRojectS\C#\Projects\BombNET\BombNET\obj\Debug\BombNET.pdb
